@@ -13,7 +13,7 @@
   },
   "users": [
    {
-          "id": "1",
+          "id": 1,
           "name": "Amelia Nowak",
           "phone_1": "122345083736",
           "phone_2": "093837474938",
@@ -25,7 +25,7 @@
           "Country": "Portugal"
         },
         {
-          "id": "2",
+          "id": 2,
           "name": "Piter Mc Calister",
           "phone_1": "09374859",
           "phone_2": "937489281",
